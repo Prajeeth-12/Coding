@@ -1,6 +1,5 @@
-public class ABC_443_ E - Climbing Silver {
-    import java.util.*;
-public class Main{
+import java.util.*;
+public class Climbing_Silver{
   static int coldiff[]={0,-1,1};
   static int rowdiff[]={-1,-1,-1};
   public static void main(String[]args)
@@ -85,6 +84,5 @@ public class Main{
       }
       System.out.println(sb.toString());
     }
-}
 }
 }
